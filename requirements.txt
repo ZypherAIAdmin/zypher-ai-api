@@ -1,0 +1,5 @@
+flask
+feedparser
+flask-caching
+vaderSentiment
+gunicorn
